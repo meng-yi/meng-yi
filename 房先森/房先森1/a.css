@@ -1,0 +1,306 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.icon {
+  width: 0.58rem;
+  height: 0.58rem;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+  color: #219DF7; }
+
+.ico {
+  width: 0.58rem;
+  height: 0.58rem;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+  color: #FDB605; }
+
+.time {
+  width: 0.28rem;
+  height: 0.28rem;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+  color: #9E9E9E; }
+
+.tel {
+  width: 0.32rem;
+  height: 0.32rem;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+  color: #3AC893; }
+
+.nav {
+  width: 0.33rem;
+  height: 0.33rem;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+  color: #999999; }
+
+.yi {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center; }
+  .yi .yusuan {
+    font-size: 0.36rem;
+    color: #000; }
+  .yi img {
+    width: 2.15rem;
+    height: 0.74rem;
+    margin: 0.16rem 0 0.16rem 0.18rem; }
+  .yi .dao {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 0.18rem; }
+    .yi .dao .ic2 {
+      width: 0.33rem;
+      height: 0.33rem; }
+    .yi .dao P {
+      font-size: 0.22rem;
+      margin-top: 0.2rem; }
+
+.two {
+  width: 100%;
+  height: 2.54rem; }
+  .two img {
+    width: 100%;
+    height: 100%; }
+
+.san {
+  width: 100%;
+  padding-bottom: 0; }
+  .san p {
+    height: 0.48rem;
+    line-height: 0.48rem;
+    background: #F4F4F4;
+    font-size: 0.24rem;
+    color: #000;
+    margin: 0.2rem 0.18rem;
+    padding-left: 0.12rem; }
+
+.si {
+  width: 100%;
+  text-align: center;
+  margin: 0.36rem 0; }
+  .si p {
+    font-size: 0.36rem;
+    color: #000; }
+
+.wu {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  border-bottom: 0.01rem solid #eaeaea; }
+  .wu .shi {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 0.25rem;
+    margin-bottom: 0.3rem; }
+    .wu .shi img {
+      width: 0.28rem;
+      height: 0.28rem; }
+    .wu .shi p {
+      font-size: 0.24rem;
+      color: #999;
+      margin: 0;
+      margin-left: 0.08rem; }
+  .wu .jian {
+    margin-left: 0.55rem; }
+
+.liu {
+  width: 100%; }
+  .liu .ke {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0.3rem 0.18rem 0 0.18rem;
+    margin-bottom: 0.36rem; }
+    .liu .ke span {
+      padding: 0 0.12rem;
+      text-align: center;
+      line-height: 0.32rem;
+      height: 0.32rem;
+      margin-right: 0.12rem;
+      border: 0.01rem solid #eaeaea;
+      font-size: 0.24rem;
+      color: #999;
+      border-radius: 0.2rem; }
+    .liu .ke .zhaung {
+      margin-bottom: 0.18rem; }
+
+.qi {
+  width: 100%; }
+  .qi p {
+    text-indent: 2em;
+    margin: 0 0.2rem 0.3rem 0.2rem;
+    font-size: 0.24rem;
+    color: #666;
+    line-height: 0.4rem; }
+
+.ba {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 0.5rem; }
+  .ba img {
+    width: 5.28rem;
+    height: 3.55rem; }
+
+.jiu {
+  width: 100%;
+  text-align: center; }
+  .jiu .a {
+    border: 0.01rem solid #A0E5CB;
+    margin: 0 0.18rem; }
+    .jiu .a p {
+      height: 0.7rem;
+      line-height: 0.70rem;
+      border: none;
+      color: #A0E5CB;
+      font-size: 0.36rem; }
+
+.shi1 {
+  width: 100%;
+  display: flex;
+  justify-content: center; }
+  .shi1 .ping {
+    text-align: center;
+    margin: 0.36rem 0.36rem; }
+    .shi1 .ping .ic1 {
+      width: 1rem;
+      height: 1rem;
+      border-radius: 50%;
+      border: 0.03rem solid #219DF7;
+      display: flex;
+      align-items: center;
+      justify-content: center; }
+    .shi1 .ping .ic2 {
+      border: 0.03rem solid #FDB605; }
+    .shi1 .ping p {
+      font-size: 0.24rem;
+      color: #219DF7;
+      margin-top: 0.23rem; }
+
+.de {
+  margin-bottom: 0.36rem; }
+
+.hui {
+  width: 100%;
+  height: 0.08rem;
+  background: #F4F4F4; }
+
+.shiyi {
+  width: 100%; }
+  .shiyi .quan {
+    display: flex;
+    align-items: center;
+    margin: 0.32rem 0.18rem; }
+    .shiyi .quan .lv {
+      width: 0.05rem;
+      height: 0.42rem;
+      background: #39C994; }
+    .shiyi .quan p {
+      font-size: 0.36rem;
+      color: #000;
+      margin-left: 0.12rem; }
+
+.shier {
+  width: 100%; }
+  .shier .fang {
+    margin: 0 0.2rem 0.31rem 0.2rem;
+    display: flex;
+    border-bottom: 0.01rem solid #f4f4f4; }
+    .shier .fang img {
+      width: 1.9rem;
+      height: 1.45rem;
+      margin: 0 0.22rem 0.31rem 0; }
+    .shier .fang .you p {
+      font-size: 0.34rem;
+      color: #000;
+      margin-bottom: 0.69rem; }
+    .shier .fang .you .biao {
+      display: flex; }
+      .shier .fang .you .biao .zuo1 {
+        display: flex;
+        align-items: center; }
+        .shier .fang .you .biao .zuo1 .ic5 {
+          width: 0.28rem;
+          height: 0.28rem;
+          margin-right: 0.12rem; }
+        .shier .fang .you .biao .zuo1 p {
+          font-size: 0.28rem;
+          color: #999;
+          margin: 0; }
+      .shier .fang .you .biao .you2 {
+        margin-left: 0.75rem; }
+  .shier .zi {
+    margin: 0 0.18rem; }
+
+.shisan {
+  width: 100%; }
+  .shisan p {
+    text-indent: 2em;
+    line-height: 0.5rem;
+    margin: 0.36rem 0.18rem;
+    font-size: 0.28rem;
+    color: #333; }
+
+.shisi {
+  width: 100%;
+  padding: 0.36rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+  .shisi .ic6 {
+    width: 0.32rem;
+    height: 0.32rem; }
+  .shisi p {
+    font-size: 0.26rem;
+    color: #333;
+    margin-left: 0.12rem; }
+
+.shiwu {
+  width: 100%;
+  display: flex; }
+  .shiwu .chu {
+    width: 25%;
+    text-align: center;
+    border-right: 0.01rem solid #F4F4F4; }
+    .shiwu .chu p {
+      font-size: 0.28rem;
+      color: #333; }
+
+.shiliu {
+  width: 100%;
+  height: 1.06rem;
+  display: flex;
+  justify-content: space-between;
+  background: rgba(0, 0, 0, 0.8); }
+  .shiliu .imgg {
+    width: 0.48rem;
+    height: 0.51rem; }
+  .shiliu .immg {
+    width: 4.28rem;
+    height: 0.87rem; }
+  .shiliu button {
+    width: 1.75rem;
+    height: 0.5rem;
+    margin-top: 0.25rem;
+    margin-right: 0.35rem;
+    background: #FDB605;
+    color: white;
+    font-size: 0.24rem;
+    border-radius: 0.3rem;
+    border: none; }
+
+.foott {
+  width: 100%;
+  height: 0.6rem; }
+
+/*# sourceMappingURL=a.css.map */
